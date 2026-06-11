@@ -17,7 +17,6 @@ script = ExtResource( 4 )
 material_override = ExtResource( 2 )
 cast_shadow = 0
 mesh = ExtResource( 3 )
-material/0 = null
 script = ExtResource( 5 )
 
 [node name="render_targets" type="Spatial" parent="."]
